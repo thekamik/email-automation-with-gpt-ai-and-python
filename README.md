@@ -6,10 +6,9 @@ An example of using the OpenAI API in python to automate email responses
    Sent messages are moved to the specified folder.
 
 2. The program is ready to use.
-   Install OpenAI library: pip install openai
-   Fill in the API key and login information.
+   Only fill in the API key and login information and Install OpenAI library: pip install openai
 
 3. If you find a bug or have an idea to improve the program, please e-mail me.
 
-4. If you support my work you can buy me a coffee:
+4. If you support my work, you can buy me a coffee:
    https://www.buymeacoffee.com/kuczera
